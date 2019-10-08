@@ -1,0 +1,3 @@
+[submodule "local_kekulejs"]
+	path = local_kekulejs
+	url = https://github.com/marmotteabbas/local_kekulejs
