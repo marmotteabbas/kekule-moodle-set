@@ -4,3 +4,15 @@
 [submodule "atto_kekulechem"]
 	path = atto_kekulechem
 	url = https://github.com/marmotteabbas/atto_kekulechem
+[submodule "qtype_kekule_multianswer"]
+	path = qtype_kekule_multianswer
+	url = https://github.com/marmotteabbas/qtype_kekule_multianswer
+[submodule "qtype_kekule_mol_naming"]
+	path = qtype_kekule_mol_naming
+	url = https://github.com/marmotteabbas/qtype_kekule_mol_naming
+[submodule "qtype_kekule_chem_manswer"]
+	path = qtype_kekule_chem_manswer
+	url = https://github.com/marmotteabbas/qtype_kekule_chem_manswer
+[submodule "qtype_kekule_chem_base"]
+	path = qtype_kekule_chem_base
+	url = https://github.com/marmotteabbas/qtype_kekule_chem_base
