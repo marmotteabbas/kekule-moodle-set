@@ -1,3 +1,6 @@
 [submodule "local_kekulejs"]
 	path = local_kekulejs
 	url = https://github.com/marmotteabbas/local_kekulejs
+[submodule "atto_kekulechem"]
+	path = atto_kekulechem
+	url = https://github.com/marmotteabbas/atto_kekulechem
