@@ -16,3 +16,6 @@
 [submodule "qtype_kekule_chem_base"]
 	path = qtype_kekule_chem_base
 	url = https://github.com/marmotteabbas/qtype_kekule_chem_base
+[submodule "kekule_chem_multi"]
+	path = kekule_chem_multi
+	url = https://github.com/marmotteabbas/kekule_chem_multi
