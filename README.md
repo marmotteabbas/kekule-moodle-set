@@ -10,3 +10,10 @@ This set contains atto plugin editor and quizz moodle questions, with many new c
 All plugins use Kekule.js.
 This library is a js library on MIT licence.
 You can visit the Kekule.js official webiste right here : http://partridgejiang.github.io/Kekule.js/
+
+To run the last version of the plugins suite please get the branchs :
+- kekule_chem_multi => master
+- qtype_kekule_chem_base => (V1.3)
+- qtype_kekule_chem_manswer => (V1.2)
+- qtype_kekule_mol_naming => (V1.2)
+- qtype_kekule_multianswer => (V1.2)
